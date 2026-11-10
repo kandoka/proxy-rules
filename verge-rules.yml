@@ -1,3 +1,4 @@
+proxies: []
 prepend:
   - DOMAIN-SUFFIX,hentai-manga.org,JMS
   - DOMAIN-SUFFIX,sukebei.nyaa.si,JMS
