@@ -1,5 +1,6 @@
 proxies: []
 prepend:
+  - DOMAIN-SUFFIX,manko.fun,JMS
   - DOMAIN-SUFFIX,hentai-manga.org,JMS
   - DOMAIN-SUFFIX,sukebei.nyaa.si,JMS
   - DOMAIN-KEYWORD,sukebei.nyaa,JMS
